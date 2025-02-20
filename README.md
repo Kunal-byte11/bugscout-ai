@@ -1,12 +1,12 @@
 # BUGSCOUT: AI-Powered Code Vulnerability Scanner
 
 ## Overview
-BUGSCOUT is a web-based platform designed to simplify security checks by automatically detecting and analyzing vulnerabilities in source code. By combining a no-code/low-code builder (Bolt.diy) with an open-source Large Language Model (LLM), BUGSCOUT makes vulnerability detection accessible for both developers and non-technical stakeholders.
+BUGSCOUT is a web-based platform designed to simplify security checks by automatically detecting and analyzing vulnerabilities in source code. By combining a no-code/low-code builder with an open-source Large Language Model (LLM), BUGSCOUT makes vulnerability detection accessible for both developers and non-technical stakeholders.
 ![alt text](https://github.com/Kunal-byte11/bugscout-ai/blob/main/flowchart.png?raw=true)
 
 ## Core Components & Workflow
 
-### Frontend/UI (Bolt.diy)
+### Frontend/UI
 - **File Upload:** Users can upload individual source files or ZIP archives of their project.
 - **Analyze Code:** A single click on the "Analyze Code" button initiates the vulnerability scanning process.
 
