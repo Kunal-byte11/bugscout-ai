@@ -2,6 +2,7 @@
 
 ## Overview
 BUGSCOUT is a web-based platform designed to simplify security checks by automatically detecting and analyzing vulnerabilities in source code. By combining a no-code/low-code builder (Bolt.diy) with an open-source Large Language Model (LLM), BUGSCOUT makes vulnerability detection accessible for both developers and non-technical stakeholders.
+![alt text](https://github.com/Kunal-byte11/bugscout-ai/blob/main/flowchart.png?raw=true)
 
 ## Core Components & Workflow
 
